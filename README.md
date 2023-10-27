@@ -11,7 +11,13 @@
 </ul>
 </div>
 
-<a href="#">
-<img src="https://img.shields.io/badge/meu_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<div>
+  <a href="#">
+    <img src="https://img.shields.io/badge/meu_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:fernanda.inschool@gmail.com">
+    <img src="https://img.shields.io/badge/meu_email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white"/>
+  </a>
+</div>
 
